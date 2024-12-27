@@ -1,4 +1,4 @@
-# ![easyguard-logo(1)](https://github.com/user-attachments/assets/97da80ea-cbca-410f-ac46-ad67177d7ce1)
+# ![EasyGuard](https://github.com/user-attachments/assets/97da80ea-cbca-410f-ac46-ad67177d7ce1)
 
 EasyGuard is a open-source Linux-based firewall. It is designed to be simple to use, secure by default but still powerful enough to be used in production environments.
 
